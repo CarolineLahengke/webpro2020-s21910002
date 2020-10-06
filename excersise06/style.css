@@ -1,0 +1,22 @@
+.img1 {
+    display: block;
+    background-color: #ffc7c7;
+    padding: 20px;
+    border: 10px solid #aaaaaa ;
+}
+
+.img2 {
+    display: block;
+    background-color: #d9adad;
+    padding: 20px;
+    border: 10px solid #ad9d9d ;
+    margin-left: 180px;
+}
+
+.img3 {
+    display: block;
+    background-color: #fccbcb;
+    padding: 20px;
+    border: 10px solid #838383 ;
+    margin-left: 360px;
+}
